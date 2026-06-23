@@ -1,18 +1,3 @@
-
-### Step 3: Add GitHub Stats
-
-Use:
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashGodara&show_icons=true)
-```
-
-And:
-
-```md
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashGodara&layout=compact)
-```
-
 ### Step 4: Side-by-Side Layout
 
 GitHub supports HTML tables:
@@ -72,5 +57,3 @@ Interests:
 Linux • AI • Web Dev • Photography
 -----------------------------------
 ```
-
-If you upload the photo you want to use, I can generate a complete GitHub Profile README in this exact terminal aesthetic, including the ASCII art and all the markdown code ready to paste into your profile.
