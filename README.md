@@ -1,59 +1,6 @@
-### Step 4: Side-by-Side Layout
-
-GitHub supports HTML tables:
-
-```html
-<table>
-<tr>
-<td>
-
-```text
-ASCII ART HERE
-```
-
-</td>
-<td>
-
-```text
-yash@github
------------
-OS: Arch Linux
-Languages: Python, JS
-Interests: AI, Photography
-```
-
-</td>
-</tr>
-</table>
-```
-
-### For Your Profile
-
-Based on what you've told me before, yours could look something like:
-
-```
-yash@github
------------------------------------
-OS: Windows 11, Arch Linux
-Education: B.Tech CSE Aspirant
-
-Languages.Programming: Python, C++, JavaScript
-Languages.Web: HTML, CSS, React
-
-Projects:
-- Voting Management System
-- Raspberry Pi NAS
-- AI Assistant
-
-Hardware:
-- i5 9400F
-- RTX 2060
-- 16GB RAM
-
-Photography:
-- Sony A6000
-
-Interests:
-Linux • AI • Web Dev • Photography
------------------------------------
-```
+<a href="https://github.com/Yash98408/make-my-profile-">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+  </picture>
+</a>
